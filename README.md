@@ -1,51 +1,66 @@
-<h1 align="center">Hi 👋, I'm Sharushan</h1>
-<h3 align="center">Computer Science Student | MAJU | Aspiring Software Engineer</h3>
+<!-- Profile README.md -->
+
+<h1 align="center">👋 Hey there, I'm Sharushan Asokan</h1>
+<h3 align="center">💻 Computer Science Student | MAJU | Future Software Engineer 🚀</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sharushan&label=Profile%20Visits&color=0e75b6&style=flat" alt="Sharushan" />
+  <img src="https://komarev.com/ghpvc/?username=SharushanAsokan&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎓 I'm a **BSCS student at MAJU**
-- 💻 I code in **JavaScript, Python, C++, SQL**
-- 📱 I build apps with **React Native & Node.js**
-- 🌱 Currently learning **Full Stack Development**
-- 🎯 Goal: Become a **skilled software engineer**
+## 🌟 About Me
+- 🎓 BSCS Student at **MAJU**  
+- 🧑‍💻 Passionate about **Full Stack Development**  
+- 🌱 Currently improving my **Problem Solving & DSA skills**  
+- ⚡ Fun fact: I love building apps that **solve real problems**  
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharushan&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+## 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharushan&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharushan&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/yourlinkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/yourtwitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="mailto:youremail@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SharushanAsokan&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=SharushanAsokan&theme=tokyonight" height="180em"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharushanAsokan&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SharushanAsokan&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SharushanAsokan"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="center">⚡ Sharushan’s Motto: Keep Learning, Keep Building, Keep Growing ⚡</h3>
